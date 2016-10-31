@@ -1,0 +1,434 @@
+/* Our CSS Code Goes Here*/
+/***********header starts here***********/
+
+header {
+    background: #A53010;
+}
+.btnLink {
+    background: #A53010;
+    border: 1px solid black;
+    color: white;
+    font-family: arial;
+    font-weight: bold;
+}
+.loginContainer {
+    float: right;
+}
+.loginContainer .btnLink {
+    float: left;
+}
+/*clearfix*/
+
+.clearfix {
+    clear: both;
+    height: 0;
+    font-size: 1px;
+    line-height: 0px;
+    display: block;
+}
+.loginContainer ul li,
+.loginContainer ul li a {
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+}
+/************header ends here***********/
+/************fonts style starts here***********/
+
+@font-face {
+    font-family: "MerriWeather";
+    src: url("../fonts/Merriweather/Merriweather-Regular.ttf");
+}
+@font-face {
+    font-family: "grand-hotel";
+    src: url("../fonts/Merriweather/Merriweather-Regular.ttf");
+}
+/************fonts style ends here***********/
+/************home container starts here***********/
+#skipContent {
+    padding:6px;
+    position: absolute;
+    top:-40px;
+    left:-999px;
+    color: #BF1722;
+    border-right:1px solid white;
+    border-bottom:1px solid white;
+    border-bottom-right-radius:8px;
+    background:transparent;
+    z-index: 100;
+}
+
+#skipContent:focus {
+    position:absolute;
+    left:0px;
+    top:0px;
+    background: #fff;
+    outline:0;  
+}
+.innerContainer {
+    width: 100%;
+    background-image: url("../images/coffee.png");
+    background-size: cover;
+}
+input,
+button,
+select {
+    outline: none;
+    background-color: #fff;
+}
+#city {
+    border-radius: 5px;
+    margin-right: 5px;
+    padding: 5px;
+    border: 1px solid brown;
+    text-align-last: center;
+}
+#dishsearch {
+    padding: 6px;
+    border-radius: 5px;
+    border: 1px solid brown;
+    color: black;
+}
+.btnsearch {
+    background: #A53010;
+    border: 1px solid brown;
+    color: white;
+    font-family: arial;
+    font-weight: bold;
+    padding: 6px;
+    border-radius: 5px;
+}
+#hiddenfirst,#hiddensecond,#hiddenthird {
+    position: absolute;
+    left: 0;
+    top: -500px;
+}
+.clearfix {
+    clear: both;
+}
+/****************home container ends here**************/
+/**************** restaurant container starts here**************/
+
+.detailsOne {
+    background-color: #fff;
+}
+.zeroResults {
+    font-size: 20px;
+    font-weight: bold;
+}
+.highlight {
+    color: #CB202D;
+}
+.images img {
+    width: 40%;
+    height: 85px;
+}
+.name {
+    float: left;
+    font-weight: bold;
+    font-family: "MerriWeather";
+    font-size: 18px;
+}
+.name a {
+    color: #A53850;
+}
+.addressBar {
+    color: #A0A5A8;
+}
+.contacts {
+    margin: 0 auto;
+    width: 100%;
+    padding: 10px 0px;
+}
+.details {
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    width: 100%;
+    padding: 10px 0px;
+}
+.call {
+    float: left;
+    text-align: center;
+    width: 30%;
+}
+.locDetails {
+    float: left;
+    font-weight: bold;
+    width: 36%;
+}
+.locDetails a {
+    color: black;
+}
+.order {
+    float: left;
+    width: 33%;
+}
+.call a {
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+}
+.click a {
+    color: green;
+}
+.midContainer {
+    padding-top: 20px;
+}
+.pagecenter {
+    text-align: center;
+}
+/****************restaurant container ends here**************/
+/*************footer starts here************/
+
+footer {
+    background: #A53010;
+}
+.desktop ul li,
+.desktop ul li a {
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+}
+/****************footer ends here**************/
+/****************media query for desktop starts here**************/
+
+@media screen and (min-device-width: 1200px) and (max-device-width: 1600px) {
+    .btnLink {
+        margin: 0px 4px;
+        padding: 7px 7px;
+    }
+    .loginContainer {
+        margin: 10px 10px;
+        float: right;
+        padding: 5px;
+    }
+    .innerContainer {
+        min-height: 550px;
+    }
+    .heading {
+        font-weight: bold;
+        font-family: "grand-hotel";
+        color: #000;
+        text-align: center;
+        margin: 0 auto;
+        padding-top: 20px;
+        text-align: center;
+    }
+    .heading h1 {
+        font-size: 50px;
+        color: #CB202D;
+    }
+    .selectCity {
+        width: 60%;
+        margin: 0 auto;
+        padding-top: 140px;
+    }
+    #city {
+        float: left;
+        padding: 10px;
+    }
+    #dishsearch {
+        width: 50%;
+        margin: 0 5px;
+        float: left;
+        padding: 10px;
+    }
+    .btnsearch {
+        width: 15%;
+        margin-left: 5px;
+        float: left;
+        padding: 10px;
+    }
+    .desktop {
+        padding: 20px 0px;
+    }
+    .desktop ul li,
+    .desktop ul li a {
+        display: inline-block;
+    }
+    .desktop ul li:first-child {
+        margin-left: 30px;
+    }
+    .detailsOne {
+        width: 30.3%;
+        float: left;
+        margin-right: 1.3%;
+        margin-left: 1.3%;
+        background-color: #fff;
+        border: 1px solid #e6e6e6;
+        border-width: 30px 30px 0px 30px;
+        min-height: 360px;
+    }
+}
+/****************media query for desktop ends here**************/
+/****************media query for mobile starts here**************/
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 500px) {
+    .btnLink {
+        margin: 0px 4px;
+        padding: 7px 7px;
+    }
+    .loginContainer {
+        margin: 10px 10px;
+        float: right;
+        padding: 5px;
+    }
+    .heading {
+        font-size: 24px;
+        font-weight: bold;
+        font-family: "grand-hotel";
+        color: #000;
+        text-align: center;
+        margin: 0 auto;
+        padding-top: 40px;
+    }
+    .heading h1 {
+        font-size: 24px;
+        color: #CB202D;
+    }
+    .innerContainer {
+        min-height: 370px;
+    }
+    .selectCity {
+        width: 80%;
+        margin: 0 auto;
+    }
+    #city {
+        width: 100%;
+        padding: 10px 0px;
+    }
+    #city option {
+        text-align: center;
+    }
+    #dishsearch {
+        width: 100%;
+        margin: 10px 0px;
+        padding: 10px 0px;
+        text-align: center;
+    }
+    .btnsearch {
+        width: 100%;
+        padding: 10px 0px;
+    }
+    .desktop {
+        padding-top: 5px;
+    }
+    .desktop ul li,
+    .desktop ul li a {
+        width: 80%;
+        display: block;
+        margin: 10px auto;
+        text-align: center;
+    }
+    .desktop ul:last-child {
+        padding-bottom: 15px;
+    }
+    .desktop ul li:nth-child(1),
+    .desktop ul li:nth-child(2) {
+        display: none;
+    }
+    .detailsOne {
+        border-bottom: 1px solid #e6e6e6;
+        border-width: 10px;
+    }
+}
+/****************media query for mobile ends here**************/
+/****************media query for tablet starts here**************/
+
+@media only screen and (min-device-width: 501px) and (max-device-width: 1200px) {
+    .btnLink {
+        margin: 0px 4px;
+        padding: 7px 7px;
+    }
+    .loginContainer {
+        margin: 10px 10px;
+        float: right;
+        padding: 5px;
+    }
+    .heading {
+        font-size: 30px;
+        font-family: "grand-hotel";
+        font-weight: bold;
+        color: #000;
+        margin: 0 auto;
+        padding-top: 40px;
+        text-align: center;
+    }
+    .heading h1 {
+        font-size: 40px;
+        color: #CB202D;
+    }
+    .innerContainer {
+        min-height: 615px;
+    }
+    .selectCity {
+        width: 80%;
+        margin: 0 auto;
+        padding-top: 100px;
+    }
+    #city {
+        width: 100%;
+        padding: 30px 0px;
+    }
+    #city option {
+        text-align: center;
+    }
+    #dishsearch {
+        width: 100%;
+        margin-top: 20px;
+        padding: 30px 0px;
+        text-align: center;
+    }
+    .btnsearch {
+        width: 100%;
+        padding: 30px 0px;
+        margin-top: 20px;
+    }
+    .desktop {
+        padding-top: 5px;
+    }
+    .desktop ul li,
+    .desktop ul li a {
+        width: 80%;
+        display: block;
+        margin: 10px auto;
+        text-align: center;
+    }
+    .desktop ul:last-child {
+        padding-bottom: 15px;
+    }
+    .desktop ul li:nth-child(1),
+    .desktop ul li:nth-child(2) {
+        display: none;
+    }
+    .detailsOne {
+        border-bottom: 1px solid #e6e6e6;
+        border-width: 10px;
+    }
+}
+/****************media query for tablet here**************/
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+    /* Safari and Chrome */
+    
+    .city {
+        display: block;
+    }
+    select {} #Selectcity {
+        width: 182px;
+        -webkit-appearance: none;
+        height: 42px;
+        float: left;
+        border-radius: 5px;
+        margin-right: 5px;
+        border: 1px solid brown;
+        text-align-last: center;
+    }
+    /* Safari only override */
+    
+    ::i-block-chrome,
+    #city {
+        display: none;
+    }
+
+}

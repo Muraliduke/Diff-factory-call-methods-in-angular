@@ -1,0 +1,476 @@
+{
+ "Chennai":[
+ {
+ "name":"Paradise",
+ "image":"assets/images/Chennai/hotel1.png",
+ "address":"392, Anjali Devi Towers Kandanchavadi, OMR, Perungudi, Chennai ",
+ "cuisine":"North Indian, Biryani ",
+ "Price":"Rs.500 for two people (approx.) ",
+ "Hours":"11 AM to 11 PM(mon-sun)",
+ "Contact":"044 49588211"
+ },
+ {
+ "name":"Zaitoon",
+ "image":"assets/images/Chennai/hotel2.png",
+ "address":"362, Velachery Main Road, Velachery, Chennai ",
+ "cuisine":"Arabian, Biryani, Mughlai, Chinese, North Indian ",
+ "Price":"Rs.900 for two people (approx.) ",
+ "Hours":"11:30 AM to 11:30 PM(mon-sun)",
+ "Contact":"044 30853711"
+ },
+ {
+ "name":"Sangeetha Veg Restaurant",
+ "image":"assets/images/Chennai/hotel3.png",
+ "address":"7, Gandhi Nagar, 1st Main Road, Adyar, Chennai ",
+ "cuisine":"North Indian, South Indian, Chinese ",
+ "Price":"Rs.450 for two people (approx.) ",
+ "Hours":" 7 AM to 10:30 PM(mon-sun)",
+ "Contact":"044 33011552"
+ },
+ {
+ "name":"Wangs Kitchen",
+ "image":"assets/images/Chennai/hotel4.png",
+ "address":"151, G 7, Gee Gee Emerald, Village Road, Nungambakkam, Chennai ",
+ "cuisine":"Chinese ",
+ "Price":"Rs.750 for two people (approx.) ",
+ "Hours":" 11:30 AM to 10:30 PM(mon-sun)",
+ "Contact":"044 33011721"
+ },
+ {
+ "name":"Ratna Cafe",
+ "image":"assets/images/Chennai/hotel5.png",
+ "address":"255, Triplicane High Road, Triplicane, Chennai ",
+ "cuisine":"South Indian ",
+ "Price":"Rs.300 for two people (approx.) ",
+ "Hours":" 7:30 AM to 10:30 PM(mon-sun)",
+ "Contact":"044 28487181"
+ },
+ {
+ "name":"Pind",
+ "image":"assets/images/Chennai/hotel6.png",
+ "address":"2, Sarathy Nagar, 1st Main Road, Velachery, Chennai ",
+ "cuisine":"North Indian, Chinese ",
+ "Price":"Rs.900 for two people (approx.) ",
+ "Hours":"11:30 AM to 11:30 PM (mon-sun)",
+ "Contact":"044 30853631"
+ },
+ {
+ "name":"Aasife & Brothers Biriyani Centre",
+ "image":"assets/images/Chennai/hotel7.png",
+ "address":"5/15, Mount Poonamalle Road, Butt Road, St. Thomas Mount, Chennai ",
+ "cuisine":"North Indian, Chinese, Seafood, Biryani ",
+ "Price":"Rs.600 for two people (approx.) ",
+ "Hours":"11 AM to 11 PM(mon-sun)",
+ "Contact":"044 22320504"
+ },
+ {
+ "name":"Mathsya",
+ "image":"assets/images/Chennai/hotel8.png",
+ "address":"1, Halls Road, Egmore, Chennai ",
+ "cuisine":"South Indian, North Indian ",
+ "Price":"Rs.450 for two people (approx.) ",
+ "Hours":"7 AM to 1:30 AM(mon-sun)",
+ "Contact":"044 30853795"
+ },
+ {
+ "name":"Coal Barbecues",
+ "image":"assets/images/Chennai/hotel9.png",
+ "address":"17 & 18, Rajalakshmi Nagar, 7th Cross Street, 100 Feet Bypass Road, Velachery, Chennai ",
+ "cuisine":"North Indian, Mediterranean, Asian, Arabian ",
+ "Price":"Rs.1,400 for two people (approx.) ",
+ "Hours":"12:00PM-11:00PM(mon-sun)",
+ "Contact":"044 33011572"
+ },
+ {
+ "name":"Buhari",
+ "image":"assets/images/Chennai/hotel10.png",
+ "address":"17, Taramani Link Road, Opposite CSI Church, Velachery, Chennai ",
+ "cuisine":"North Indian, Chinese, Biryani",
+ "Price":"Rs.850 for two people (approx.) ",
+ "Hours":"11 AM to 11 PM(mon-sun)",
+ "Contact":"044 65335555"
+ }
+
+ 
+ ],
+ "Kolkata":[
+ {
+ "name":"Mocambo",
+ "image":"assets/images/kolkata/hotel1.png",
+ "address":"25B Park Street, Park Street Area, Kolkata ",
+ "cuisine":"Continental, Italian, North Indian ",
+ "Price":"1,050 for two people (approx.) ",
+ "Hours":"11 AM to 11 PM(mon-sun)",
+ "Contact":"033 22654300"
+ },
+ {
+ "name":"BarBQ",
+ "image":"assets/images/kolkata/hotel2.png",
+ "address":"43-47-55, Park Street Area, Kolkata ",
+ "cuisine":"Chinese, North Indian ",
+ "Price":"Rs.900 for two people (approx.) ",
+ "Hours":"12 Noon to 11:15 PM(mon-sun)",
+ "Contact":"033 22299345"
+ },
+ {
+ "name":"Arsalan",
+ "image":"assets/images/kolkata/hotel3.png",
+ "address":"28, Circus Avenue, Near A.J.C. Bose Road Flyover, Park Circus Area, Kolkata ",
+ "cuisine":"North Indian, Mughlai, Biryani ",
+ "Price":"Rs.700 for two people (approx.) ",
+ "Hours":"11 AM to 11 PM(mon-sun)",
+ "Contact":"033 30990526"
+ },
+ {
+ "name":"Spice Kraft",
+ "image":"assets/images/kolkata/hotel4.png",
+ "address":"54/1/2A, Hazra Road, Ballygunge Phari, Near Hazra Law College, Ballygunge, Kolkata ",
+ "cuisine":"Continental, Middle Eastern, Asian ",
+ "Price":"Rs.1,200 for two people (approx.) ",
+ "Hours":"11 AM to 11 PM(mon-sun)",
+ "Contact":"033 30990348"
+ },
+ {
+ "name":"Hakuna Matata",
+ "image":"assets/images/kolkata/hotel5.png",
+ "address":"Ground Floor, 12D, Park Street, Park Street Area, Kolkata ",
+ "cuisine":"Continental, Mexican ",
+ "Price":"Rs.800 for two people (approx.)",
+ "Hours":" 12 Noon to 11 PM(mon-sun)",
+ "Contact":"033 65556066"
+ },
+ {
+ "name":"Oudh 1590",
+ "image":"assets/images/kolkata/hotel6.png",
+ "address":"23/B, Desapriya Park(West), Desapriya Park, Kolkata ",
+ "cuisine":"Mughlai, Awadhi ",
+ "Price":"Rs.1,200 for two people (approx.) ",
+ "Hours":"12 Noon to 3 PM(mon-sun)",
+ "Contact":"033 30990404"
+ },
+ {
+ "name":"Aaira",
+ "image":"assets/images/kolkata/hotel7.png",
+ "address":"1st Floor, The Myx, 20G, Near Loreto House, Park Street Area, Kolkata ",
+ "cuisine":"North Indian, Mughlai ",
+ "Price":"Rs.1,200 for two people (approx.)",
+ "Hours":"12 Noon to 11:30 PM(mon-sun)",
+ "Contact":"033 30990488"
+ },
+ {
+ "name":"Fly Kouzina",
+ "image":"assets/images/kolkata/hotel8.png",
+ "address":"AD 73, Near BD Market Bus Stop, Sector 1, Salt Lake ",
+ "cuisine":"Continental, North Indian, Chinese ",
+ "Price":"Rs.1,200 for two people (approx.)",
+ "Hours":"12 Noon to 11:30 PM(mon-sun)",
+ "Contact":"033 30990345"
+ },
+ {
+ "name":"The Palms",
+ "image":"assets/images/kolkata/hotel9.png",
+ "address":"1st Floor, 19A, Meghnad Saha Sarani, Southern Avenue, Kolkata ",
+ "cuisine":"Chinese, Asian, Thai, Awadhi, Singaporean, Mughlai, North Indian ",
+ "Price":"Rs.850 for two people (approx.) ",
+ "Hours":"12 Noon to 4 PM(mon-sun)",
+ "Contact":"033 30990222"
+ },
+ {
+ "name":"Santa's Fantasea",
+ "image":"assets/images/kolkata/hotel10.png",
+ "address":"9, Ballygunge Terrace, Near Anjali Jewellers, Golpark, Kolkata ",
+ "cuisine":"Seafood, Chinese ",
+ "Price":"Rs.700 for two people (approx.) ",
+ "Hours":"08:00AM-10:00PM(mon-sun)",
+ "Contact":"033 30990265"
+ }
+ 
+ ],
+ "Delhi":[
+ {
+ "name":"Gulati",
+ "image":"assets/images/delhi/hotel1.png",
+ "address":"6, Pandara Road Market, New Delhi ",
+ "cuisine":"North Indian, Mughlai ",
+ "Price":"Rs.1,500 for two people (approx.)",
+ "Hours":"12 Noon to 12 Midnight(mon-sun)",
+ "Contact":"011 33105051"
+ },
+ {
+ "name":"Berco's ",
+ "image":"assets/images/delhi/hotel2.png",
+ "address":"G-2/43, Middle Circle, Connaught Place, New Delhi ",
+ "cuisine":"Chinese, Thai ",
+ "Price":"Rs.1,100 for two people (approx.) ",
+ "Hours":"12 Noon to 11 PM(mon-sun)",
+ "Contact":"011 33106478"
+ },
+ {
+ "name":"Desi Vibes",
+ "image":"assets/images/delhi/hotel3.png",
+ "address":"G-50, 1st Floor, Sector 18, Noida ",
+ "cuisine":"North Indian, Mughlai ",
+ "Price":"Rs.1,400 for two people (approx.) ",
+ "Hours":"11:30 AM -11:30 PM (mon-sun)",
+ "Contact":"011 30806445"
+ },
+ {
+ "name":"QD's Restaurant",
+ "image":"assets/images/delhi/hotel4.png",
+ "address":"294, Satyaniketan Market, Near Venkateshwara College, Satyaniketan, New Delhi ",
+ "cuisine":"Chinese, North Indian, Fast Food ",
+ "Price":"Rs.700 for two people (approx.) ",
+ "Hours":"11 AM to 11 PM(mon-sun)",
+ "Contact":"+91 8882997777"
+ },
+ {
+ "name":"Punjab Grill",
+ "image":"assets/images/delhi/hotel5.png",
+ "address":"2nd Floor, Food Court, Select Citywalk Mall, Saket, New Delhi ",
+ "cuisine":"South Indian, Mughlai ",
+ "Price":"Rs.1,950 for two people (approx.) ",
+ "Hours":"12 Noon to 11:45 PM(mon-sun)",
+ "Contact":"011 41572977"
+ },
+ {
+ "name":"Ardor",
+ "image":"assets/images/delhi/hotel6.png",
+ "address":"N-55/56 & 88/89, Outer Circle, Connaught Place, New Delhi ",
+ "cuisine":"North Indian, Chinese, Continental, Italian ",
+ "Price":"12:30 PM to 12:30 AM",
+ "Hours":"08:00AM-10:00PM(mon-sun)",
+ "Contact":"011 33106222"
+ },
+ {
+ "name":"Nite Bites",
+ "image":"assets/images/delhi/hotel7.png",
+ "address":"Sector 45, Gurgaon",
+ "cuisine":"North Indian, Chinese, Continental ",
+ "Price":"Rs.650 for two people (approx.)",
+ "Hours":"7 PM to 4:30 AM(mon-sun)",
+ "Contact":"011 33106305"
+ },
+ {
+ "name":"Diggin",
+ "image":"assets/images/delhi/hotel8.png",
+ "address":"Anand Lok Shopping Centre, Opposite Gargi College, Anand Lok, New Delhi ",
+ "cuisine":"Italian, Continental, Cafe ",
+ "Price":"Rs.1,350 for two people (approx.) ",
+ "Hours":"8:30 AM to 11 PM(mon-sun)",
+ "Contact":"011 33105376"
+ },
+ {
+ "name":"chow kadai",
+ "image":"assets/images/delhi/hotel9.png",
+ "address":"Plot 3-5, Sector 29, Gurgaon ",
+ "cuisine":"North Indian, South Indian, Fast Food, Street Food, Chinese, Mithai ",
+ "Price":"Rs.550 for two people (approx.) ",
+ "Hours":"08:00AM-11:00PM(mon-sun)",
+ "Contact":"00 01244337777"
+ },
+ {
+ "name":"Kebab Gali",
+ "image":"assets/images/delhi/hotel10.png",
+ "address":"7-8, Corner Market, Malviya Nagar, New Delhi",
+ "cuisine":"North Indian,South Indian, Mughlai, Biryani ",
+ "Price":"Rs.600 for two people (approx.) ",
+ "Hours":"12 Noon to 11 PM(mon-sun)",
+ "Contact":"011 33105881"
+ }
+ 
+ ],
+ "Mumbai":[
+ {
+ "name":"Gurukripa",
+ "image":"assets/images/mumbai/hotel1.png",
+ "address":"55, Thunga Village, Opposite Local Office Bus Stop, Saki Vihar Road, Powai, Mumbai ",
+ "cuisine":"North Indian, Chinese, Seafood ",
+ "Price":"Rs.800 for two people",
+ "Hours":"11:30 AM to 12:30 AM(mon-sun)",
+ "Contact":"022 33126791"
+ },
+ 
+ {
+ "name":"The Fusion Kitchen",
+ "image":"assets/images/mumbai/hotel2.png",
+ "address":"Shop 1, Opposite Veda Building, Near Bhavdevi Garage, Holy Cross Road, IC colony, Borivali West, Mumbai ",
+ "cuisine":"North Indian, Italian, Chinese, Mexican ",
+ "Price":"Rs.950 for two people (approx.) ",
+ "Hours":"12:30 PM to 3:30 PM, 7:30 PM to 12 Midnight(mon-sun)",
+ "Contact":"022 30151462"
+ },
+
+ {
+ "name":"Persia Darbar",
+ "image":"assets/images/mumbai/hotel3.png",
+ "address":"6-7, Lily Tower CHS Ltd, R.B Sharma Center, S V Road, Jogeshwari West, Jogeshwari, Mumbai ",
+ "cuisine":"Mughlai, North Indian, Chinese ",
+ "Price":"Rs.800 for two people (approx.) ",
+ "Hours":"12 Noon to 2:30 AM(mon-sun)",
+ "Contact":"022 30150872"
+ },
+
+ {
+ "name":"Home Chef",
+ "image":"assets/images/mumbai/hotel4.png",
+ "address":"71 Meher Building, Line of Sushrusha Hospital, Ranade Road, Dadar Shivaji Park, Mumbai ",
+ "cuisine":"American, Fast Food, Italian, Burger, Salad, Healthy Food ",
+ "Price":"Rs.600 for two people (approx.) ",
+ "Hours":"10:30 AM to 11:30 PM(mon-sun)",
+ "Contact":"022 30151249"
+ },
+ {
+ "name":"Emprino ",
+ "image":"assets/images/mumbai/hotel5.png",
+ "address":"Shop B/3, Gagangiri Premise CHS, Union Park Road, Carter Road, Bandra West ",
+ "cuisine":"Chinese, Thai ",
+ "Price":"Rs.550 for two people (approx.) ",
+ "Hours":"12:30 PM to 12 Midnight(mon-sun)",
+ "Contact":"+91 9920221292"
+ },
+ {
+ "name":"Wok Express",
+ "image":"assets/images/mumbai/hotel6.png",
+ "address":"Shop 1-2, Dheeraj Swapna Building, Pali Naka, Pali Hill, Bandra West ",
+ "cuisine":"Chinese ",
+ "Price":"Rs.600 for two people (approx.) ",
+ "Hours":"11 AM to 11 PM(mon-sun)",
+ "Contact":"022 65000396"
+ },
+ {
+ "name":"Five Fat Monks",
+ "image":"assets/images/mumbai/hotel7.png",
+ "address":"Shop 2, Ground Floor, The New Kamal Society, Near National College, Waterfield Road, Linking Road, Bandra West ",
+ "cuisine":"Asian, Chinese ",
+ "Price":"Rs.600 for two people (approx.) ",
+ "Hours":"12 Noon to 12:30 AM(mon-sun)",
+ "Contact":"022 33126946"
+ },
+ {
+ "name":"Glocal Junction",
+ "image":"assets/images/mumbai/hotel8.png",
+ "address":"Plot 57, Ground & 1st Floor, Morya Bluemoon Building, New Link Road, Andheri Lokhandwala, Andheri West ",
+ "cuisine":"Continental, Fast Food, North Indian, Salad, European ",
+ "Price":"Rs.1,000 for two people (approx.)",
+ "Hours":"12 Noon to 1 AM(mon-sun)",
+ "Contact":"022 33126723"
+ },
+ {
+ "name":"Curry Me Up",
+ "image":"assets/images/mumbai/hotel9.png",
+ "address":"K 77, JP Road, Behind Seven Bungalows Garden, Near Nana Nani Garden, 7 Bungalows, Andheri West ",
+ "cuisine":"pizza ",
+ "Price":"Rs.700 for two people (approx.) ",
+ "Hours":"12 Noon to 3 PM, 7 PM to 12 Midnight(mon-sun)",
+ "Contact":"91 9967979619"
+ },
+ {
+ "name":"SpiceKlub",
+ "image":"assets/images/mumbai/hotel10.png",
+ "address":"8A, Janta Industrial Estate, Opposite Phoenix Mills, Senapati Bapat Road, Lower Parel, Mumbai ",
+ "cuisine":"pizza ",
+ "Price":"Rs.1,500 for two people (approx.) ",
+ "Hours":"Today 12 Noon to 4 PM, 6:30 PM to 12 Midnight(mon-sun)",
+ "Contact":"022 46104610"
+ }
+ 
+ ],
+ "Bengaluru":[
+ {
+ "name":"Empire Restaurant",
+ "image":"assets/images/bengaluru/hotel1.png",
+ "address":"103, Industrial Area, 5th Block, Near Jyothi Nivas College, Koramangala 5th Block, Bangalore ",
+ "cuisine":"Biryani, Kerala, Mughlai, Arabian, North Indian ",
+ "Price":"Rs.600 for two people (approx.) ",
+ "Hours":"11 AM to 12:45 AM(mon-sun)",
+ "Contact":"080 49653245"
+ },
+ {
+ "name":"Big Brewsky",
+ "image":"assets/images/bengaluru/hotel2.png",
+ "address":"Behind MK Retail, Before WIPRO Corporate Office, Sarjapur Road, Bangalore ",
+ "cuisine":"Finger Food, North Indian, Italian, Continental, Thai, South Indian ",
+ "Price":"Rs.1,800 for two people (approx.)",
+ "Hours":"12:30 PM to 11:30 PM(mon-sun)",
+ "Contact":"080 49654245"
+ },
+ {
+ "name":"Truffles",
+ "image":"assets/images/bengaluru/hotel3.png",
+ "address":"28, 4th 'B' Cross, 5th Block, Koramangala, Koramangala 5th Block, Bangalore ",
+ "cuisine":"American, Burger, Cafe ",
+ "Price":"Rs.900 for two people (approx.)",
+ "Hours":"12 Noon to 10:30 PM(mon-sun)",
+ "Contact":"080 49655245"
+ },
+ {
+ "name":"Karama Restaurant",
+ "image":"assets/images/bengaluru/hotel4.png",
+ "address":"55, Mosque Road, Frazer Town, Bangalore ",
+ "cuisine":"Juices, North Indian, Pakistani, Arabian ",
+ "Price":"Rs.650 for two people (approx.) ",
+ "Hours":"7 AM to 1 AM(mon-sun)",
+ "Contact":"080 49755245"
+ },
+ {
+ "name":"Big Pitcher",
+ "image":"assets/images/bengaluru/hotel5.png",
+ "address":"LR Arcade,4121, Old Airport Road, Bangalore ",
+ "cuisine":"American, Continental, North Indian, Mediterranean ",
+ "Price":"Rs.2,000 for two people (approx.) ",
+ "Hours":"11 AM to 1 AM(mon-sun)",
+ "Contact":"080 49788245"
+ },
+ {
+ "name":"Toit",
+ "image":"assets/images/bengaluru/hotel6.png",
+ "address":"298, Namma Metro Pillar 62, 100 Feet Road, Indiranagar, Bangalore ",
+ "cuisine":"Italian, American, Pizza ",
+ "Price":"Rs.2,000 for two people (approx.)",
+ "Hours":"12 Noon to 12:30 AM(mon-sun)",
+ "Contact":"080 49789245"
+
+ },
+ {
+ "name":"Kota Kachori",
+ "image":"assets/images/bengaluru/hotel7.png",
+ "address":"635, 100 Feet Road, Koramangala 6th Block, Bangalore ",
+ "cuisine":"Street Food, North Indian Street Food, North Indian ",
+ "Price":"Rs.400 for two people (approx.) ",
+ "Hours":"8 AM to 10 PM(mon-sun)",
+ "Contact":"080 49786445"
+
+
+ },
+ {
+ "name":"Onesta",
+ "image":"assets/images/bengaluru/hotel8.png",
+ "address":"562, 8th Main, 4th Block, Koramangala 4th Block, Bangalore ",
+ "cuisine":"Pizza, Cafe, Italian ",
+ "Price":"Rs.600 for two people (approx.) ",
+ "Hours":"12:30 PM to 10 PM(mon-sun)",
+ "Contact":"080 497578245"
+ },
+ {
+ "name":"Fattoush",
+ "image":"assets/images/bengaluru/hotel9.png",
+ "address":"128/54/10, Above A2B, Opposite IIM - B, Dasarapalya, Bannerghatta Road, Bangalore ",
+ "cuisine":"Arabian, North Indian, Chinese ",
+ "Price":"Rs.900 for two people (approx.) ",
+ "Hours":"12 Noon to 11 PM(mon-sun)",
+ "Contact":"080 49789785"
+ },
+ {
+ "name":"Prost Brew Pub",
+ "image":"assets/images/bengaluru/hotel10.png",
+ "address":"749, 10th Main, 80 Feet Road, Koramangala 4th Block, Bangalore",
+ "cuisine":"American, Continental, North Indian ",
+ "Price":"Rs.1000 for two people (approx.)",
+ "Hours":"08:00AM-10:00PM(mon-sun)",
+ "Contact":"080 49744245"
+ }
+ 
+ ]
+
+
+}
